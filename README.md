@@ -1,6 +1,6 @@
 #LW5-Activity_Comparative-Analysis-of-Pre-trained-CNN-Models-for-Custom-Image-Classification
 
- .[Heres the Google colab link for LW5)](https://colab.research.google.com/drive/1ID2x2twtywza87XWc6GFcclqrQ-WCD2N?usp=drive_link)
+ .[Heres the Google colab link for LW5)](https://colab.research.google.com/drive/10bLiGXFPqklEi48K_ccksHrQtiRsU9oW#scrollTo=mgNk9LIbjxjA)
 
 
 GUIDE QUESTIONS
