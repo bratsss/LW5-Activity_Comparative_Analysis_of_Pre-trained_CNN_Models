@@ -5,6 +5,7 @@
  Performance Comparison Table
  ![Model Performance Table](https://github.com/bratsss/LW5-Activity_Comparative_Analysis_of_Pre-trained_CNN_Models/blob/44d450068048177dd53c43c099be6d543b0ef418/Performance%20Comparison%20Table/Performance%20Comparison%20Table.png)
 
+.[Saved Model)](https://drive.google.com/file/d/1bql7K-dofbyG4MZ4AJTAcvTu3zDtpv6U/view?usp=drive_link)
 
 GUIDE QUESTIONS
 
